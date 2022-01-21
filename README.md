@@ -1,3 +1,5 @@
+# THIS PROJECT IS ARCHIVED. FOR A BETTER PROJECT THAT IS SIMILAR TO THIS ONE, SEE [PASSMUTATE](https://github.com/kaimosensei/passmutate).
+
 PassPwn
 =======
 ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/license-GPL%203-blue) ![](https://img.shields.io/badge/passpwn-v1.0-blue)
